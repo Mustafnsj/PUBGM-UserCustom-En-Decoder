@@ -50,7 +50,7 @@ Decode Value :
 +CVars=r.ShadowQuality=2
 +CVars=r.MobileContentScaleFactor=0.8
 +CVars=r.MobileHDR=1
-+CVars=r.UserHDRSetting=3
++CVars=r.UserHDRSetting=1
 +CVars=r.MaterialQualityLevel=1
 +CVars=r.Shadow.MaxCSMResolution=1080
 +CVars=r.Shadow.CSM.MaxMobileCascades=2
